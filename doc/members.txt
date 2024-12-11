@@ -1,0 +1,35 @@
+Name: Ethan Gapay
+Account: etg55588
+Have you been on co-op? yes
+List 1 to 3 programming languages you know: Java, Python, SQL
+List 1 to 3 hobbies or interests: Computer Building, Working Out, Cooking
+
+Name: Zaher Asad
+Account: zsa4432
+Have you been on co-op? Yes
+List 1 to 3 programming languages you know: Java, Python, PHP
+List 1 to 3 hobbies or interests: Hiking, Traveling, and listening to music
+
+Name: Alex Tedesco
+Account: act2076
+Have you been on co-op? yes
+List 1 to 3 programming languages you know: Java, Python, SQL
+List 1 to 3 hobbies or interests: Video Editing, Graphic Design, Listening To Music
+
+Name: Allan Flores
+Account: arf7094
+Have you been on co-op? Yes
+List 1 to 3 programming languages you know: C# Javascript C++
+List 1 to 3 hobbies or interests: Reading Games and TV
+
+Name: Alfred Franco Salgado
+Account: af8857
+Have you been on co-op? no
+List 1 to 3 programming languages you know: Java, C, JavaScript
+List 1 to 3 hobbies or interests: Chess, Powerlifting, Martial Arts
+
+Name: Nolan J. Wira
+Account: njw1389
+Have you been on co-op? No
+List 1 to 3 programming languages you know: Java, JavaScript, Python
+List 1 to 3 hobbies or interests: Skiing, Jet Skiing, Working Out
